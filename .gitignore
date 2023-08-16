@@ -1,0 +1,14 @@
+build-*/
+build/
+jconfig.h
+*.user*
+.DS_Store
+.idea
+*.lo
+*.o
+*.a
+*.la
+*.lai
+*.so
+*.dll
+*.dylib
